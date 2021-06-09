@@ -1,3 +1,4 @@
 
 
 Sample another example file for stash
+adding an another extension line
