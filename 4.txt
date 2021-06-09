@@ -2,5 +2,3 @@
 
 This is the updated 4.txt document should reflected
 in both the directory
- 
-Using this file for git stash
