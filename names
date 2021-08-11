@@ -1,3 +1,260 @@
 
 hello friends this is sivA
 this is learning
+    1  lf
+    2  ls
+    3  mkdir siva
+    4  ls
+    5  cd siva
+    6  ls
+    7  touch siva
+    8  ls
+    9  ll
+   10  vi siva
+   11  ls
+   12  cat siva
+   13  cat >> siva
+   14  cat siva
+   15  cat siva
+   16  ls
+   17  yum -y update
+   18  yum -y git
+   19  yum -y install git
+   20  git --version
+   21  mkdir rt
+   22  cd rt
+   23  git init
+   24  ls
+   25  ls -la
+   26  git config --global user.name 'rt-technologies'
+   27   git config --global user.email 'rttechnologies2021@gmail.com'
+   28  git remote add origin "https://github.com/sivalaksmibogala/hub1_siva.git"
+   29  git pull origin hub1_siva 
+   30  vi file.txt
+   31  git status
+   32  git add file.txt
+   33  git status
+   34  git commit -m 'first commit'
+   35    git push origin hub1_siva
+   36    git push origin hub1_siva
+   37    git push origin hub1_siva
+   38    git push origin hub1_siva
+   39    git push origin hub1_siva
+   40    git push origin hub1_siva
+   41    git push origin hub1_siva
+   42    git push origin hub1_siva
+   43  git remote add hub1_siva "https://sivalakshmibogala:Sivaganga@21@github.com/sivalaksmibogala/hub1_siva.git"
+   44    git push origin hub1_siva
+   45  git pull origin master
+   46  git pull origin name
+   47  git pull origin main
+   48  git push origin main
+   49  git push origin hub1_siva
+   50  git push origin main
+   51  git remote set-url
+   52  git remote-v
+   53  git remote -v
+   54  git remote set-url --push https://github.com/sivalaksmibogala/hub1_siva.git 
+   55  git pull --rebase origin hub1_siva
+   56  git push origin hub1_siva
+   57  git push -u origin hub1_siva
+   58  rm -rf .git
+   59  ls -la
+   60  git init
+   61  git status
+   62  git remote -v
+   63  git remote add origin "https://github.com/sivalaksmibogala/hub1_siva.git"
+   64  git pull origin hub1_siva
+   65  git add file.txt
+   66  git commit -m 'first commit'
+   67  git push origin hub1_siva
+   68  git push -u origin hub1_siva
+   69  git config --global user.name 'sivalaksmibogala'
+   70  git config --global user.email 'shivalakshmireddy21@gmail.com'
+   71  git pull origin hub1_siva
+   72  git push origin hub1_siva
+   73  history
+   74  pwd
+   75  ls
+   76  ls -a
+   77  cd
+   78  cd siva
+   79  cd
+   80  mk dir diy
+   81  mkdir diy
+   82  ls
+   83  ls -a
+   84  rmdir diy
+   85  ls
+   86  pwd
+   87  ls
+   88  mkdir siva
+   89  mkdir diy
+   90  ls
+   91  ls
+   92  touch file1.txt
+   93  ls
+   94  touch option file.txt
+   95  ls
+   96  df
+   97  df -m
+   98  ls
+   99  git --version
+  100  ls
+  101  mkdir rt
+  102  ls
+  103  cd rt
+  104  ls
+  105  vi names
+  106  cat names
+  107  cat >> names
+  108  cat names
+  109  names
+  110  [root@ip-172-31-69-91 rt]#
+  111  ls
+  112  git init
+  113  ls -la
+  114  git config --global user.name 'sivalaksmibogala'
+  115  git config --global user.email 'shivalakshmireddy21@gmail.com'
+  116  git remote add origin "https://github.com/sivalaksmibogala/hub1_siva.git"
+  117  git pull origin hub1_siva
+  118  git status
+  119  git add names
+  120  git status
+  121  git commit -m 'first comment'
+  122  git push origin hub1_siva
+  123  git pull origin 
+  124  git push origin main
+  125  git push -u origin
+  126  git push -u origin hub1_siva
+  127  git push -u origin hub1_siva
+  128  git push origin main
+  129  yum -y update
+  130  git remote add origin master "https://github.com/manojyaragondla/devops-tech.git"
+  131  git remote add origin "https://github.com/manojyaragondla/devops-tech.git"
+  132  git remote -v
+  133  git remote add origin "https://github.com/manojyaragondla/devops-tech.git"
+  134  git remote add origin "https://github.com/manojyaragondla/devops-tech.git"
+  135  git remote rm  https://github.com/sivalaksmibogala/hub1_siva.git 
+  136  git remove rm -rf  https://github.com/sivalaksmibogala/hub1_siva.git 
+  137  git remote remove origin 
+  138  git remote -v
+  139  git remote add origin "https://github.com/manojyaragondla/devops-tech.git"
+  140  git pull origin master
+  141  git push origin master
+  142  git push origin master
+  143  git push origin master
+  144  cd .git
+  145  ls
+  146  cd objects 
+  147  ls
+  148  cd ..
+  149  cat config
+  150  vi config 
+  151  git pull origin hub1_siva
+  152  cd..
+  153  cd ..
+  154  git pull origin hub1_siva
+  155  git status
+  156  git push origin hub1_siva
+  157  git remote remove origin
+  158  git remote -v
+  159  git remote add origin "https://github.com/sivalaksmibogala/devops.git"
+  160  git pull origin main
+  161  git status
+  162  ls
+  163  rm -rf README.md 
+  164  git pull origin main
+  165  git commit -a
+  166  git push origin main
+  167  history
+  168  word for 'https://sivalaksmibogala@github.com':
+  169  error: src refspec hub1_siva does not match any.
+  170  error: failed to push some refs to 'https://github.com/sivalaksmibogala/hub1_siva.git'
+  171  [root@ip-172-31-69-91 rt]# git remote remove origin
+  172  [root@ip-172-31-69-91 rt]# git remote -v
+  173  [root@ip-172-31-69-91 rt]# git remote add origin "https://github.com/sivalaksmibogala/devops.git"
+  174  [root@ip-172-31-69-91 rt]# git pull origin main
+  175  warning: no common commits
+  176  remote: Enumerating objects: 3, done.
+  177  remote: Counting objects: 100% (3/3), done.
+  178  remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+  179  Unpacking objects: 100% (3/3), done.
+  180  From https://github.com/sivalaksmibogala/devops
+  181   * branch            main       -> FETCH_HEAD
+  182  Auto-merging README.md
+  183  CONFLICT (add/add): Merge conflict in README.md
+  184  Automatic merge failed; fix conflicts and then commit the result.
+  185  [root@ip-172-31-69-91 rt]# git status
+  186  # On branch master
+  187  # You have unmerged paths.
+  188  #   (fix conflicts and run "git commit")
+  189  #
+  190  # Unmerged paths:
+  191  #   (use "git add <file>..." to mark resolution)
+  192  #
+  193  #       both added:         README.md
+  194  #
+  195  no changes added to commit (use "git add" and/or "git commit -a")
+  196  [root@ip-172-31-69-91 rt]# ls
+  197  devops-tech  names  README.md  src  src1  src3
+  198  [root@ip-172-31-69-91 rt]# rm -rf README.md
+  199  [root@ip-172-31-69-91 rt]# git pull origin main
+  200  U       README.md
+  201  Pull is not possible because you have unmerged files.
+  202  Please, fix them up in the work tree, and then use 'git add/rm <file>'
+  203  as appropriate to mark resolution, or use 'git commit -a'.
+  204  [root@ip-172-31-69-91 rt]# git commit -a
+  205  [master e711d58] Merge branch 'main' of https://github.com/sivalaksmibogala/devops
+  206  [root@ip-172-31-69-91 rt]# git push origin main
+  207  Username for 'https://github.com': sivalaksmibogala
+  208  Password for 'https://sivalaksmibogala@github.com':
+  209  error: src refspec main does not match any.
+  210  error: failed to push some refs to 'https://github.com/sivalaksmibogala/devops.git'
+  211  [root@ip-172-31-69-91 rt]#
+  212  word for 'https://sivalaksmibogala@github.com':
+  213  error: src refspec hub1_siva does not match any.
+  214  error: failed to push some refs to 'https://github.com/sivalaksmibogala/hub1_siva.git'
+  215  [root@ip-172-31-69-91 rt]# git remote remove origin
+  216  [root@ip-172-31-69-91 rt]# git remote -v
+  217  [root@ip-172-31-69-91 rt]# git remote add origin "https://github.com/sivalaksmibogala/devops.git"
+  218  [root@ip-172-31-69-91 rt]# git pull origin main
+  219  warning: no common commits
+  220  remote: Enumerating objects: 3, done.
+  221  remote: Counting objects: 100% (3/3), done.
+  222  remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+  223  Unpacking objects: 100% (3/3), done.
+  224  From https://github.com/sivalaksmibogala/devops
+  225   * branch            main       -> FETCH_HEAD
+  226  Auto-merging README.md
+  227  CONFLICT (add/add): Merge conflict in README.md
+  228  Automatic merge failed; fix conflicts and then commit the result.
+  229  [root@ip-172-31-69-91 rt]# git status
+  230  # On branch master
+  231  # You have unmerged paths.
+  232  #   (fix conflicts and run "git commit")
+  233  #
+  234  # Unmerged paths:
+  235  #   (use "git add <file>..." to mark resolution)
+  236  #
+  237  #       both added:         README.md
+  238  #
+  239  no changes added to commit (use "git add" and/or "git commit -a")
+  240  [root@ip-172-31-69-91 rt]# ls
+  241  devops-tech  names  README.md  src  src1  src3
+  242  [root@ip-172-31-69-91 rt]# rm -rf README.md
+  243  [root@ip-172-31-69-91 rt]# git pull origin main
+  244  U       README.md
+  245  Pull is not possible because you have unmerged files.
+  246  Please, fix them up in the work tree, and then use 'git add/rm <file>'
+  247  as appropriate to mark resolution, or use 'git commit -a'.
+  248  [root@ip-172-31-69-91 rt]# git commit -a
+  249  [master e711d58] Merge branch 'main' of https://github.com/sivalaksmibogala/devops
+  250  [root@ip-172-31-69-91 rt]# git push origin main
+  251  Username for 'https://github.com': sivalaksmibogala
+  252  Password for 'https://sivalaksmibogala@github.com':
+  253  error: src refspec main does not match any.
+  254  error: failed to push some refs to 'https://github.com/sivalaksmibogala/devops.git'
+  255  [root@ip-172-31-69-91 rt]#
+  256  history >> names
+git commands
