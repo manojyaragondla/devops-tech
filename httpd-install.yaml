@@ -19,6 +19,6 @@
     service: 
       name: firewalld 
       state: restarted
-  - shell: echo " hello world " > /var/www/html/index.html | curl <ip-address> 
+  - shell: echo " hello world " > /var/www/html/index.html | curl 52.15.188.225
     register: echo
   - debug: msg={{ echo.stdout }}
