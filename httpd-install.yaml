@@ -1,6 +1,6 @@
 ---
 - name: This sets up an httpd webserver
-  hosts: ansibleclient01.local
+  hosts: All
   tasks:
   - name: Install apache packages 
     yum:
@@ -19,3 +19,6 @@
     service: 
       name: firewalld 
       state: restarted
+  - shell: echo " hello world " > /var/www/html/index.html | curl <ip-address> 
+    register: echo
+  - debug: msg={{ echo.stdout }}
