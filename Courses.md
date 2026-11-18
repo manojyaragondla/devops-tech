@@ -2,3 +2,5 @@
 - Azure devops
 - Github action
 - Terraform action
+- Docker
+- linux
